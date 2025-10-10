@@ -44,3 +44,5 @@
 [Day 21](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2021)
 
 [Day 22](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2022)
+
+[Day 23](https://github.com/mahamoodsaad/VSD_SOC/tree/main/Day%2023)
