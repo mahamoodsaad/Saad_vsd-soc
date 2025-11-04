@@ -48,7 +48,7 @@ sudo make install
 
 * Export the PDK_ROOT variable to point to sky130A PDK
 ```shell
-export PDK_ROOT=/home/spatha/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/pdks
+export PDK_ROOT=/home/saad/soc-design-and-planning-nasscom-vsd/Desktop/work/tools/openlane_working_dir/pdks
 ```
 <img width="1304" height="747" alt="Screenshot 2025-09-24 at 12 59 22 PM" src="https://github.com/user-attachments/assets/ce01f397-88e9-4d1e-b4ef-882d645bce7a" />
 
